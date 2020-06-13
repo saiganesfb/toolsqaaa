@@ -1,0 +1,7 @@
+stepDefinitions\CheckoutPageSteps.class
+cucumber\TestContext.class
+stepDefinitions\HomePageSteps.class
+stepDefinitions\CartPageSteps.class
+runners\TestRunner.class
+stepDefinitions\Steps.class
+stepDefinitions\ProductPageSteps.class
